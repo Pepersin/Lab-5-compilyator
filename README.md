@@ -21,4 +21,7 @@
 ## Тестовые примеры: 
 ![Ввод без ошибок]![image](https://github.com/user-attachments/assets/e57cf54d-0807-495d-baa4-cc31c4e9cd95)
 
-![Ввод с ошибкой]![image](https://github.com/user-attachments/assets/5d04122e-672b-49de-be03-7965e2b26b8a)
+![Ввод с ошибкой]![image](https://github.com/user-attachments/assets/3ff4ac39-2715-4b31-979b-9d7d99e22d03)
+
+![Ввод с ошибкой]![image](https://github.com/user-attachments/assets/a853e3fd-8e8f-486d-b2e3-9a79122d8b49)
+
